@@ -1,5 +1,6 @@
-<h1 align="center">Calculadora Geométrica</h1>
-
+<div align="center">
+  <h1>Calculadora Geométrica  <img align="center" alt="Lucas-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></h1>
+</div>
 Este é um projeto de calculadora em Java que permite calcular medidas de figuras planas e espaciais. A calculadora utiliza a tecnologia JOptionPane para interagir com o usuário e está organizada em diferentes pastas e classes para uma melhor modularidade e manutenção do código.
 
 ## Estrutura de Pastas
@@ -27,6 +28,8 @@ O programa utiliza uma abordagem orientada a objetos, onde cada figura é repres
 3. Siga as instruções fornecidas pelo programa para inserir os dados necessários para o cálculo.
 
 4. A calculadora apresentará o resultado das medidas da figura selecionada.
+
+5. Após isso, ela retornará a tela de inicialização e requisitará novamente uma escolha.
 
 ## Requisitos
 
