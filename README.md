@@ -6,7 +6,7 @@
 </div>
 <div align="center">
   
-  Este é um projeto de calculadora em `Java`` que permite calcular medidas de figuras planas e espaciais. A calculadora utiliza a tecnologia `JOptionPane` para interagir com o usuário e está organizada em diferentes pastas e classes para uma melhor modularidade e            manutenção   do código.
+  Este é um projeto de calculadora em `Java` que permite calcular medidas de figuras planas e espaciais. A calculadora utiliza a tecnologia `JOptionPane` para interagir com o usuário e está organizada em diferentes pastas e classes para uma melhor modularidade e            manutenção   do código.
 </div>
   
 
